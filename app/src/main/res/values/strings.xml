@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="dialog_title">Введите название задачи</string>
+    <string name="save">Сохранить</string>
+    <string name="toast_empty_name">Нельзя создать задачу с пустым названием!</string>
+    <string name="toast_error">Случилась ошибка!</string>
+    <string name="dialog_delete_this">Удалить задачу?</string>
+    <string name="delete">Удалить</string>
+</resources>
